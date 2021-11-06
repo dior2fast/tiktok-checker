@@ -7,7 +7,7 @@ This tool was strictly developed to demonstrate how straightforward it is to cla
 This does not pick up fails availables ( such as banned accounts, it will show invalid ) !!
 
 ## Video
-https://www.youtube.com/watch?v=27M0m8kfX3A
+https://www.youtube.com/watch?v=OBkMwHh3zWY
 
 
 ## Usage
